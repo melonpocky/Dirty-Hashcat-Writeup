@@ -9,6 +9,15 @@ A very rough draft of how to use Hashcat program. Also where I can mess with thi
 * `hashcat -h | grep '[ANY HASH YOU WANT]`
 * There's a lot of things in the man page, this helps find the hash you want to add for your mode
 
+#### Programs ####
+* hash-identifier
+
+#### Websites ####
+* Hash Analyzers
+* https://www.tunnelsup.com/hash-analyzer/
+* Online Hash Crackers (sounds yummy)
+* https://crackstation.net/
+
 # Basic Structure of Hashcat Command #
 * This is for dictionaries
 * `hashcat -m [Hash Type] [Path to the Hash File you want to break].txt [Path to your wordlist].txt --show`
@@ -21,3 +30,4 @@ A very rough draft of how to use Hashcat program. Also where I can mess with thi
 * MD5 '-m 0'
 * MD4 '-m 900'
 * SHA1 '-m 100'
+
