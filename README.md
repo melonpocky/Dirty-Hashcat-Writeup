@@ -26,8 +26,8 @@ A very rough draft of how to use Hashcat program. Also where I can mess with thi
 * -m represents the type of hash
 
 # Common Hashes #
-* NTML '-m 1000'
-* MD5 '-m 0'
-* MD4 '-m 900'
-* SHA1 '-m 100'
+* NTML `-m 1000`
+* MD5 `-m 0`
+* MD4 `-m 900`
+* SHA1 `-m 100`
 
