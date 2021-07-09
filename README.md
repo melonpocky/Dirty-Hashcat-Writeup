@@ -1,5 +1,5 @@
-# Pupy-LRAT-Writeup
-Writing up about Pupy LRAT program. Also where I can mess with things in a safe manner. 
+# A Very Rough Draft Towards Hashcat
+Writing up about Hashcat for ProsVsJoes CTF. Also where I can mess with things in a safe manner. 
 
 ## Installation Instructions ##
 * Open up terminal 
